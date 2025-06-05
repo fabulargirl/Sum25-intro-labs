@@ -27,9 +27,7 @@ Also signing commits helps with:
 - **Squash and Merge**: Combines all commits from a feature branch into a single commit before merging.
 
     All commits from a branch are merged into a single commit that is applied to the main branch.
-
     It helps to make a clean history - one commit per feature.
-
     But the detailed history of changes within the branch is lost.
 
     Diagram:
