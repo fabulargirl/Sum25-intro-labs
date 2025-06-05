@@ -13,8 +13,7 @@ Also signing commits helps with:
 
 - **Standard Merge**: Combines two branches by creating a merge commit.
 
-    This retains the full development history and shows exactly when the merge occurred.
-    History can become “noisy” with a large number of merges.
+    This retains the full development history and shows exactly when the merge occurred. History can become “noisy” with a large number of merges.
 
     Diagram:
     ```
