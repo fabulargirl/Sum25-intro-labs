@@ -37,7 +37,6 @@ Also signing commits helps with:
 - **Rebase and Merge**: Reapplies commits from a feature branch onto the base branch.
 
     Consistently moves commits from the feature branch to the main branch on top of the most recent version of the main branch.
-
     This method creates a linear, clean history without merge commits. Leads to difficulties with conflicting rebases. Not recommended for public branches, because the history is changed.
 
     Diagram:
